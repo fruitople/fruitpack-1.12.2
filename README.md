@@ -11,7 +11,7 @@
 
 ## 💻 System Requirements
 
-- **RAM:** Minimum **6GB (6144MB)** allocation required.
+- **RAM:** Minimum **5GB (5120MB)** allocation required.
 - **Java:** Java 8 (JRE Legacy) 64-bit.
 
 ## 🍐 Feedback
